@@ -1,5 +1,3 @@
-package com.davanok.dvnkdnd.ui.components.sideSheet
-
 import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.WindowInsetsSides
 import androidx.compose.foundation.layout.only
