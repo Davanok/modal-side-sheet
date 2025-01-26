@@ -1,8 +1,5 @@
 @file:Suppress("PrimitiveInCollection")
 
-package com.davanok.dvnkdnd.ui.components.sideSheet
-
-
 import androidx.annotation.FloatRange
 import androidx.compose.animation.core.AnimationSpec
 import androidx.compose.animation.core.SpringSpec
