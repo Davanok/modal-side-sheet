@@ -1,4 +1,3 @@
-package com.davanok.dvnkdnd.ui.components.sideSheet
 
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.AnimationSpec
